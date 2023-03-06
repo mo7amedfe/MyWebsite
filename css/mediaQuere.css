@@ -4,13 +4,13 @@
         background-image: url(../img/responsive6.jpg);
     }
     .navbar-toggler {
-        height: 60px;
-        width: 60px;
+        height: 100px;
+        width: 100px;
     }
 
     .navbar-toggler-icon {
         width: 100%;
-        font-size: 40px;
+        font-size: 60px;
     }
 
     #container {
@@ -43,14 +43,13 @@
     }
 
     .navbar-toggler {
-        height: 60px;
-        width: 60px;
-
+        height: 100px;
+        width: 100px;
     }
 
     .navbar-toggler-icon {
         width: 100%;
-        font-size: 40px;
+        font-size: 60px;
     }
 
     .clip {
@@ -60,6 +59,18 @@
     .links a i {
         font-size: 50px !important;
     }
+    
+
+h2 {
+    margin-left: 5%;
+    font-weight: 600 !important;
+    font-size: 1.50rem ;
+    margin-bottom: 1.5rem !important;
+    line-height: 1.2;
+    color: #000000 !important;
+    line-height: 1.2;
+}
+
 }
 
 /* Medium devices (landscape tablets, 768px and up) */
@@ -72,7 +83,28 @@
         text-align: center;
     }
 
-    .clip {}
+    .clip {
+    font-size: 50px;
+
+    }
+    
+.links a i {
+    font-size: 50px !important;
+    cursor: pointer;
+    color: #fff;
+}
+
+
+h2 {
+    margin-left: 5%;
+    font-weight: 600 !important;
+    font-size: 1.50rem ;
+    margin-bottom: 1.5rem !important;
+    line-height: 1.2;
+    color: #000000 !important;
+    line-height: 1.2;
+}
+
     
 }
 
@@ -88,7 +120,28 @@
 
     }
 
-    .clip {}
+    .clip {
+    font-size: 50px;
+
+    }
+    
+.links a i {
+    font-size: 50px !important;
+    cursor: pointer;
+    color: #fff;
+}
+
+
+h2 {
+    margin-left: 5%;
+    font-weight: 600 !important;
+    font-size: 1.50rem ;
+    margin-bottom: 1.5rem !important;
+    line-height: 1.2;
+    color: #000000 !important;
+    line-height: 1.2;
+}
+
 }
 
 /* Extra large devices (large laptops and desktops, 1200px and up) */
@@ -102,6 +155,27 @@
         text-align: center;
     }
 
-    .clip {}
+    .clip {
+        font-size: 50px;
+
+    }
+    
+.links a i {
+    font-size: 50px !important;
+    cursor: pointer;
+    color: #fff;
+}
+
+
+h2 {
+    margin-left: 5%;
+    font-weight: 600 !important;
+    font-size: 1.50rem ;
+    margin-bottom: 1.5rem !important;
+    line-height: 1.2;
+    color: #000000 !important;
+    line-height: 1.2;
+}
+
 
 }
